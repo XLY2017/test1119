@@ -1,5 +1,6 @@
-hello test conflict hot_fix
+hello resolve conflict
 asdfsdf
 asfd
 asdf
 test merge
+
